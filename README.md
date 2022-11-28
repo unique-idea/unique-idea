@@ -1,13 +1,22 @@
-[![ThanhLee GitHub Banner](https://media.istockphoto.com/id/1178575923/photo/cybercrime.jpg?b=1&s=170667a&w=0&k=20&c=yOScX7AU9_mxylUaskL-aHA5n5pJ-L-G60V9v_TtTsQ=)
-<a href="https://github.com/unique-idead/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+[![ThanhLee GitHub Banner](https://github.com/unique-idea/unique-idea/blob/main/images/backGround-git.png)]
+</br>
+
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by thanhlee | origin giao.lang](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml)
+[![CI with GitHub Actions using Maven and JUnit | © 2022 by thanhLee | origin giao.lang](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml/badge.svg)](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml)
+[![](https://visitcount.itsvg.in/api?id=unique-idea&icon=6&color=6)](https://visitcount.itsvg.in)
+
+<a href="https://github.com/unique-idead/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/unique-idea/unique-idea" alt="Stars Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-# Hi There !
-<h3 align="center">I'm Thanh a passionate backend developer with a unique style of code</h3>
+
+# Hi There ! <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/sunglassess.gif" atl="sun-glass" width="40" height="40" />
+<h3 align="center">I'm Thanh a prefer logical person so I choose to be a back-end developer. A passionate back-end developer with a unique style of code, currently, I am looking for a way, and an important purpose to try my best, in that time, 
+I will improve all my personal skills necessary for my work. Nice to meet you all </h3>
 
 
+-- More:
 - 🏬 I'm currently study at **FPT University Campus**
 
 - 📚 My major is  **Software Engineering**
@@ -17,20 +26,46 @@
 </br>
 
 # 🌐Socials:
- <img align="right" height="100" src="https://media.tenor.com/pEAfwozaukkAAAAM/mlg-glasses-teal.gif" alt="unique-idea" />
+
+<img align="right" height="120" alt="I don't really use it all but feel free to cotact me" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.sgv" />
+
  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Thanhlee) 
-</br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thanhlee)
-</br>[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thanhlee)
-</br>[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thanhlee)
-</br>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100064013721337) 
+</br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thanh_lee1910/)
+</br>[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@thanh_lee1910)
+</br>[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Thanh_Lee1910)
+</br>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lequanthanhbp2019@gmail.com)](mailto:lequanthanhbp2019@gmail.com)
 
 </br>
 
 # 💻Skills:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=plastic&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+<div align="left">
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
+
+</div>
+<div align="right">
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) 
+![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=plastic&logo=Apache%20Ant&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+
+</div>
 </br>
 
 # 📊GitHub Stats :
@@ -59,11 +94,12 @@
 <p> https://www.defprogramming.com/random/ </p>
 
 # 🙇 Special Thanks:
-- [giaolang](https://github.com/zzetao) for teach me the how amazing of using GitHub!
-- More of coding content via 
+
+- My teacher for teach me the how amazing of using GitHub! [doit-now](https://github.com/doit-now)
+- More coding content of him via [giaolang](https://www.youtube.com/@giaolang)
+- My friends who always support and stand by my side to complete my projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
 
 #  📖 License:
-[![](https://visitcount.itsvg.in/api?id=unique-idea&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <div align="center">
 <i>"DO FOR FREE NOT FREE FOR DO"</i>
