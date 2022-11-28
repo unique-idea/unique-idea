@@ -1,19 +1,20 @@
-[![ThanhLee GitHub Banner](https://github.com/unique-idea/unique-idea/blob/main/images/backGround-git.png)]
+![ThanhLee GitHub Banner](https://github.com/unique-idea/unique-idea/blob/main/images/backGround-git.png)
 </br>
 
 [![CI with GitHub Actions using Ant and JUnit | © 2022 by thanhlee | origin giao.lang](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml)
 [![CI with GitHub Actions using Maven and JUnit | © 2022 by thanhLee | origin giao.lang](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml/badge.svg)](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml)
+</br>
 [![](https://visitcount.itsvg.in/api?id=unique-idea&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/unique-idead/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/unique-idea/unique-idea" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/unique-idea"><img src="https://img.shields.io/github/stars/unique-idea/unique-idea" alt="Stars Badge"/></a>
+<a href="https://github.com/unique-idea"><img src="https://img.shields.io/github/forks/unique-idea/unique-idea" alt="Forks Badge"/></a>
+<a href="https://github.com/unique-idea"><img src="https://img.shields.io/github/issues-pr/unique-idea/unique-idea" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/unique-idea"><img src="https://img.shields.io/github/issues/unique-idea/unique-idea" alt="Issues Badge"/></a>
+<a href="https://github.com/unique-idea"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/unique-idea/unique-idea?color=2b9348"></a>
 
-# Hi There ! <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/sunglassess.gif" atl="sun-glass" width="40" height="40" />
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/sunglassess.gif" atl="sun-glass" width="40" height="40"/> Hi You !
 <h3 align="center">I'm Thanh a prefer logical person so I choose to be a back-end developer. A passionate back-end developer with a unique style of code, currently, I am looking for a way, and an important purpose to try my best, in that time, 
-I will improve all my personal skills necessary for my work. Nice to meet you all </h3>
+I will improve all my personal skills necessary for my work. Nice to meet you! </h3>
 
 
 -- More:
