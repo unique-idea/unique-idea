@@ -9,7 +9,7 @@
         }
         .marquee strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: limegreen;
+          color: #0a0047;
           position: absolute;
           font-size: 1.2em;
           width: 100%;
@@ -33,7 +33,7 @@
         }
       </style>
       <div class="marquee">
-        <strong>Thanks for visiting my profile, see you next time!</strong>
+        <strong>I don't really use it all but feel free to cotact me <3 </strong>
       </div>
 		</div>
 	</foreignObject>
