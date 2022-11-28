@@ -3,13 +3,13 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         .marquee {
-          height: 50px;	
+          height: 40px;	
           overflow: hidden;
           position: relative;
         }
         .marquee strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: #0a0047;
+          color: limegreen;
           position: absolute;
           font-size: 1.2em;
           width: 100%;
@@ -33,7 +33,7 @@
         }
       </style>
       <div class="marquee">
-        <strong>I don't really use it all but feel free to cotact me <3 </strong>
+        <strong>Thanks for visiting my profile, see you next time!</strong>
       </div>
 		</div>
 	</foreignObject>
