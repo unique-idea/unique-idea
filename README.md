@@ -1,8 +1,8 @@
 ![ThanhLee GitHub Banner](https://github.com/unique-idea/unique-idea/blob/main/images/backGround-git.png)
 </br>
 
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by thanhlee | origin giao.lang](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml)
-[![CI with GitHub Actions using Maven and JUnit | © 2022 by thanhLee | origin giao.lang](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml/badge.svg)](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml)
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by thanhlee](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml)
+[![CI with GitHub Actions using Maven and JUnit | © 2022 by thanhLee](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml/badge.svg)](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml)
 </br>
 [![](https://visitcount.itsvg.in/api?id=unique-idea&icon=6&color=6)](https://visitcount.itsvg.in)
 
@@ -92,8 +92,13 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 </div>
 
 #  🗒 Random Dev quotes:
+<div align="center">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<p align="center"> Check back in a few minutes for a new quote! </p>
 
 # 🙇 Special Thanks:
 
