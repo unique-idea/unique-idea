@@ -72,9 +72,9 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/status.gif" height="60" width="60" /> Stats :
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=unique-idea&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/overview-fire.gif" height="60" width="60" /> Overview status ranking:
@@ -90,6 +90,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 <div align="center">
 
 ![](https://github-trophies.vercel.app/?username=unique-idea&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/quotes.gif" height="60" width="60" /> Random Dev quotes:
