@@ -12,7 +12,7 @@
 <a href="https://github.com/unique-idea"><img src="https://img.shields.io/github/issues/unique-idea/unique-idea" alt="Issues Badge"/></a>
 <a href="https://github.com/unique-idea"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/unique-idea/unique-idea?color=2b9348"></a>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/sunglassess.gif" atl="sun-glass" width="40" height="40"/> Hi You !
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/sunglassess.gif" atl="sun-glass" width="60" height="60"/> Hi You !
 <h3 align="center">I'm Thanh a prefer logical person so I choose to be a back-end developer. A passionate back-end developer with a unique style of code, currently, I am looking for a way, and an important purpose to try my best, in that time, 
 I will improve all my personal skills necessary for my work. Nice to meet you! </h3>
 
@@ -26,7 +26,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 </br>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/social.gif" height="40" width="40" /> Socials:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/social.gif" height="60" width="60" /> Socials:
 
 <img height="100" alt="I don't really use it all but feel free to cotact me" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.svg" />
 
@@ -41,7 +41,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 </div>
 </br>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/skills%20lap.gif" height="40" width="40" /> Skills:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/skills%20lap.gif" height="60" width="60" /> Skills:
 
 
 <div align="center">
@@ -69,7 +69,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 </div>
 </br>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/status.gif" height="40" width="40" /> Stats :
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/status.gif" height="60" width="60" /> Stats :
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -77,7 +77,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/overview.gif" height="40" width="40" /> Overview status ranking:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/overview.gif" height="60" width="60" /> Overview status ranking:
 
 <div align="center">
 
@@ -86,13 +86,13 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 </br>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/cup.gif" height="40" width="40" /> GitHub Trophies:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/cup.gif" height="60" width="60" /> GitHub Trophies:
 <div align="center">
 
 ![](https://github-trophies.vercel.app/?username=unique-idea&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/quotes.gif" height="40" width="40" /> Random Dev quotes:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/quotes.gif" height="60" width="60" /> Random Dev quotes:
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -108,7 +108,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 - My friends who always support and stand by my side to complete our projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
 >>
 
-#  <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/listence.gif" height="40" width="40" /> License:
+#  <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/listence.gif" height="60" width="60" /> License:
 
 <div align="center">
 <i>"DO FOR FREE NOT FREE FOR DO"</i>
