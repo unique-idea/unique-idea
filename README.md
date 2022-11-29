@@ -17,7 +17,7 @@
 I will improve all my personal skills necessary for my work. Nice to meet you! </h3>
 
 
--- More:
+# -- More:
 - 🏬 I'm currently study at **FPT University Campus**
 
 - 📚 My major is  **Software Engineering**
@@ -26,7 +26,9 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 </br>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/social.gif" height="60" width="60" /> Socials:
+---
+
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/social.gif" height="60" width="60"/> Socials:
 
 <img height="100" alt="I don't really use it all but feel free to cotact me" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.svg" />
 
@@ -41,8 +43,9 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 </div>
 </br>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/skills%20lap.gif" height="60" width="60" /> Skills:
+---
 
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/skills%20lap.gif" height="60" width="60" /> Skills:
 
 <div align="center">
 
@@ -69,6 +72,8 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 </div>
 </br>
 
+---
+
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/status.gif" height="60" width="60" /> Stats :
 <div align="center">
 
@@ -76,6 +81,8 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 ![](https://github-readme-streak-stats.herokuapp.com/?user=unique-idea&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
+
+---
 
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/overview-fire.gif" height="60" width="60" /> Overview status ranking:
 
@@ -86,12 +93,16 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 </br>
 
+---
+
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/cup.gif" height="60" width="60" /> GitHub Trophies:
 <div align="center">
 
 ![](https://github-trophies.vercel.app/?username=unique-idea&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
+
+---
 
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/quotes.gif" height="60" width="60" /> Random Dev quotes:
 <div align="center">
@@ -102,12 +113,16 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 <p align="center"> Check back in a few minutes for a new quote! </p>
 
+---
+
 # 🙇 Special Thanks:
 
 > - My teacher for teach me the how amazing of using GitHub! [doit-now](https://github.com/doit-now)
 > - More coding content of him via [giaolang](https://www.youtube.com/@giaolang)
 > - My friends who always support and stand by my side to complete our projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
 >>
+
+---
 
 #  <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/listence.gif" height="60" width="60" /> License:
 
