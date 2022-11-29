@@ -1,4 +1,4 @@
-![ThanhLee GitHub Banner](https://github.com/unique-idea/unique-idea/blob/main/images/backGround-git.png)
+![ThanhLee GitHub Banner](https://github.com/unique-idea/unique-idea/blob/main/gifs/back-ground.gif)
 </br>
 
 [![CI with GitHub Actions using Ant and JUnit | © 2022 by thanhlee](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml)
@@ -18,6 +18,9 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 
 # -- More:
+
+<img align="right" src="https://github.com/unique-idea/unique-idea/blob/main/gifs/intro-hobby.gif" height="10" width="100" /> 
+
 - 🏬 I'm currently study at **FPT University Campus**
 
 - 📚 My major is  **Software Engineering**
