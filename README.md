@@ -77,7 +77,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/overview.gif" height="60" width="60" /> Overview status ranking:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/overview-fire.gif" height="60" width="60" /> Overview status ranking:
 
 <div align="center">
 
