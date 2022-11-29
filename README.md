@@ -28,20 +28,23 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 # 🌐Socials:
 
-<img align="right" height="120" alt="I don't really use it all but feel free to cotact me" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.sgv" />
+<img height="100" alt="I don't really use it all but feel free to cotact me" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.svg" />
 
+<div align="center">
  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100064013721337) 
-</br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thanh_lee1910/)
-</br>[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@thanh_lee1910)
-</br>[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Thanh_Lee1910)
-</br>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lequanthanhbp2019@gmail.com)](mailto:lequanthanhbp2019@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100064013721337)<space></space>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thanh_lee1910/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@thanh_lee1910)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Thanh_Lee1910)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lequanthanhbp2019@gmail.com)](mailto:lequanthanhbp2019@gmail.com)
 
+</div>
 </br>
 
 # 💻Skills:
 
-<div align="left">
+
+<div align="center">
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
@@ -52,9 +55,6 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-
-</div>
-<div align="right">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
@@ -72,9 +72,9 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 # 📊GitHub Stats :
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=unique-idea&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 # 🔥 Overview Stats Ranking:
@@ -92,13 +92,14 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 </div>
 
 #  🗒 Random Dev quotes:
-<p> https://www.defprogramming.com/random/ </p>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 # 🙇 Special Thanks:
 
 - My teacher for teach me the how amazing of using GitHub! [doit-now](https://github.com/doit-now)
 - More coding content of him via [giaolang](https://www.youtube.com/@giaolang)
-- My friends who always support and stand by my side to complete my projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
+- My friends who always support and stand by my side to complete our projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
 
 #  📖 License:
 
