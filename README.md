@@ -104,8 +104,8 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 # 🙇 Special Thanks:
 
 > - My teacher for teach me the how amazing of using GitHub! [doit-now](https://github.com/doit-now)
-- More coding content of him via [giaolang](https://www.youtube.com/@giaolang)
-- My friends who always support and stand by my side to complete our projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
+> - More coding content of him via [giaolang](https://www.youtube.com/@giaolang)
+> - My friends who always support and stand by my side to complete our projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
 >>
 
 #  <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/listence.gif" height="60" width="60" /> License:
