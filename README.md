@@ -26,7 +26,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 </br>
 
-# 🌐Socials:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/social.gif" height="40" width="40" /> Socials:
 
 <img height="100" alt="I don't really use it all but feel free to cotact me" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.svg" />
 
@@ -41,7 +41,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 </div>
 </br>
 
-# 💻Skills:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/skills%20lap.gif" height="40" width="40" /> Skills:
 
 
 <div align="center">
@@ -69,7 +69,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 </div>
 </br>
 
-# 📊GitHub Stats :
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/status.gif" height="40" width="40" /> Stats :
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -77,21 +77,22 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-idea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-# 🔥 Overview Stats Ranking:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/overview.gif" height="40" width="40" /> Overview status ranking:
 
 <div align="center">
+
 <a href="https://app.dooboo.io/unique-idea"><img src="https://server.dooboo.io/github-stats/unique-idea" width="600" /></a>
 </div>
 
 </br>
 
-# 🏆GitHub Trophies:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/cup.gif" height="40" width="40" /> GitHub Trophies:
 <div align="center">
 
 ![](https://github-trophies.vercel.app/?username=unique-idea&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-#  🗒 Random Dev quotes:
+# <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/quotes.gif" height="40" width="40" /> Random Dev quotes:
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -102,11 +103,12 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 # 🙇 Special Thanks:
 
-- My teacher for teach me the how amazing of using GitHub! [doit-now](https://github.com/doit-now)
+> - My teacher for teach me the how amazing of using GitHub! [doit-now](https://github.com/doit-now)
 - More coding content of him via [giaolang](https://www.youtube.com/@giaolang)
 - My friends who always support and stand by my side to complete our projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
+>>
 
-#  📖 License:
+#  <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/listence.gif" height="40" width="40" /> License:
 
 <div align="center">
 <i>"DO FOR FREE NOT FREE FOR DO"</i>
