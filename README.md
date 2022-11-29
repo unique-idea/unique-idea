@@ -25,7 +25,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 # -- More:
 
-<img align="right" src="https://github.com/unique-idea/unique-idea/blob/main/gifs/intro-hobby.gif" height="180" width="50%" /> 
+<img align="right" src="https://github.com/unique-idea/unique-idea/blob/main/gifs/intro-hobby.gif" height="170" width="50%" /> 
 
 - 🏬 I'm currently study at **FPT University Campus**
 
