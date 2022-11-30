@@ -10,7 +10,7 @@
 [![CI with GitHub Actions using Ant and JUnit | © 2022 by thanhlee](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/unique-idea/math-util-ant/actions/workflows/ci-with-ant.yml)
 [![CI with GitHub Actions using Maven and JUnit | © 2022 by thanhLee](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml/badge.svg)](https://github.com/unique-idea/math-util-maven/actions/workflows/ci-with-maven.yml)
 </br>
-[![](https://visitcount.itsvg.in/api?id=unique-idea&icon=6&color=6)](https://visitcount.itsvg.in)
+[![Viewer](https://visitcount.itsvg.in/api?id=unique-idea&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <a href="https://github.com/unique-idea"><img src="https://img.shields.io/github/stars/unique-idea/unique-idea" alt="Stars Badge"/></a>
 <a href="https://github.com/unique-idea"><img src="https://img.shields.io/github/forks/unique-idea/unique-idea" alt="Forks Badge"/></a>
