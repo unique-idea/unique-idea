@@ -19,7 +19,7 @@
 <a href="https://github.com/unique-idea"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/unique-idea/unique-idea?color=2b9348"></a>
 
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/sunglassess.gif" atl="sun-glass" width="60" height="60"/> Hi You !
-<h3 align="center">I'm Thanh a prefer logical person so I choose to be a back-end developer. A passionate back-end developer with a unique style of code, currently, I am looking for a way, and an important purpose to try my best, in that time, 
+<h3 align="center">I'm Thanh a prefer logical person, so I choose to be a back-end developer. A passionate back-end developer with a unique style of code, currently, I am looking for a way and an important purpose to try my best, at that time, 
 I will improve all my personal skills necessary for my work. Nice to meet you! </h3>
 
 
@@ -27,7 +27,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 <img align="right" src="https://github.com/unique-idea/unique-idea/blob/main/gifs/intro-hobby.gif" height="170" width="50%" /> 
 
-- 🏬 I'm currently study at **FPT University Campus**
+- 🏬 I'm currently graduated at **FPT University Campus**
 
 - 📚 My major is  **Software Engineering**
 
@@ -39,7 +39,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/social.gif" height="60" width="60"/> Socials:
 
-<img height="100" alt="I don't really use it all but feel free to cotact me" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.svg" />
+<img height="100" alt="I don't really use it all, so please contact me via email and feel free to contact" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.svg" />
 
 <div align="center">
  
@@ -126,7 +126,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 # 🙇 Special Thanks:
 
-> - My teacher for teach me the how amazing of using GitHub! [doit-now](https://github.com/doit-now)
+> - My teacher taught me how amazing of use GitHub is! [doit-now](https://github.com/doit-now)
 > - More coding content of him via [giaolang](https://www.youtube.com/@giaolang)
 > - My friends who always support and stand by my side to complete our projects  [kiet](https://github.com/kaolaa20), [giang](https://github.com/giang-cat-luong), [thang](https://github.com/omg9000), [tien](https://github.com/Terry2002)
 >>
@@ -136,7 +136,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 #  <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/listence.gif" height="60" width="60" /> License:
 
 <div align="center">
-<i>"DO FOR FREE NOT FREE FOR DO"</i>
+<i>"DO FOR FREE, NOT FREE FOR DO"</i>
    <br>
 <i>-- D4F --</i>
 
