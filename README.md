@@ -39,7 +39,7 @@ I will improve all my personal skills necessary for my work. Nice to meet you! <
 
 # <img src="https://github.com/unique-idea/unique-idea/blob/main/gifs/social.gif" height="60" width="60"/> Socials:
 
-<img height="100" alt="I don't really use it all, so please contact me via email and feel free to contact" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.svg" />
+<img height="100" alt="I don't really often use it all, so please contact me via email" width="100%" src="https://github.com/unique-idea/unique-idea/blob/main/gav/text.svg" />
 
 <div align="center">
  
