@@ -1,6 +1,6 @@
 <div align="center">
 
-![ThanhLee GitHub Banner](https://github.com/unique-idea/unique-idea/blob/main/gifs/back-ground.gif)
+
 
 ### *"Better In Dark Mode"* <3 
 
